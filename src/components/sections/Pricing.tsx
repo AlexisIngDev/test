@@ -46,7 +46,7 @@ export default function Pricing({ title, description, plans }: PricingProps) {
 
               <Link
                 className={`mt-auto inline-flex items-center justify-center rounded-full px-5 py-3 font-semibold text-white transition duration-200 hover:-translate-y-0.5 ${
-                  plan.highlighted ? 'bg-white text-black hover:bg-zinc-200' : 'bg-zinc-800 hover:bg-zinc-700'
+                  plan.highlighted ? 'bg-pink-500 text-black/25 hover:bg-zinc-200' : 'bg-zinc-800 hover:bg-zinc-700'
                 }`}
                 href={plan.ctaHref}
               >
