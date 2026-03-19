@@ -56,5 +56,5 @@ docker compose up --build
 ## Project Notes
 
 - [PROMPT_LOG.md](./PROMPT_LOG.md)
-- [BITACORA_TECNICA.md](./BITACORA_TECNICA.md)
-- [GUIA_DEMO.md](./GUIA_DEMO.md)
+- [ENGINEERING_NOTES.md](./ENGINEERING_NOTES.md)
+- [DEMO_GUIDE.md](./DEMO_GUIDE.md)

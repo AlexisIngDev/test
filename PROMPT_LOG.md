@@ -1,7 +1,7 @@
 # Prompt Log
 
-Registro resumido de prompts usados para construir este proyecto.  
-Formato intencionalmente breve: objetivo, prompt y decisión aplicada en código.
+Condensed record of prompts used to build this project.  
+Intentionally short format: goal, prompt, and implementation decision.
 
 ## Session 1 - Assignment framing
 
