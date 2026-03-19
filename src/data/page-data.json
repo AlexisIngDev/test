@@ -1,0 +1,68 @@
+[
+  {
+    "id": "hero-1",
+    "type": "hero",
+    "props": {
+      "eyebrow": "CMS-driven rendering",
+      "title": "Build landing pages from JSON",
+      "subtitle": "This page is rendered dynamically from a hardcoded JSON file that simulates a headless CMS response.",
+      "primaryCta": {
+        "label": "Start Free Trial",
+        "href": "#pricing"
+      },
+      "secondaryCta": {
+        "label": "View Features",
+        "href": "#features"
+      }
+    }
+  },
+  {
+    "id": "features-1",
+    "type": "feature-grid",
+    "props": {
+      "title": "What this renderer can do",
+      "description": "The PageBuilder maps each content block to the matching React component and renders it safely.",
+      "items": [
+        {
+          "title": "CMS-style JSON",
+          "description": "A local JSON file mirrors the structure you might receive from a headless CMS."
+        },
+        {
+          "title": "Dynamic rendering",
+          "description": "Each block is matched by type and rendered through a component registry."
+        },
+        {
+          "title": "Safe fallback",
+          "description": "Unknown block types do not crash the app and show a visible fallback instead."
+        }
+      ]
+    }
+  },
+  {
+    "id": "pricing-1",
+    "type": "pricing",
+    "props": {
+      "title": "Simple pricing",
+      "description": "A clean pricing section rendered from structured content.",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$9/mo",
+          "description": "For individual makers testing the renderer pattern.",
+          "features": ["1 dynamic page", "Basic section support", "Email support"],
+          "ctaLabel": "Choose Starter",
+          "ctaHref": "#"
+        },
+        {
+          "name": "Pro",
+          "price": "$29/mo",
+          "description": "For teams who want more flexibility and testing confidence.",
+          "features": ["Unlimited sections", "Unknown block fallback", "Unit test coverage"],
+          "ctaLabel": "Choose Pro",
+          "ctaHref": "#",
+          "highlighted": true
+        }
+      ]
+    }
+  }
+]
