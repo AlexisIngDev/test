@@ -53,6 +53,10 @@ npm run test
 docker compose up --build
 ```
 
+## Demo Video
+
+- [Watch demo.mp4](./demo.mp4)
+
 ## Project Notes
 
 - [PROMPT_LOG.md](./PROMPT_LOG.md)
