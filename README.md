@@ -55,7 +55,10 @@ docker compose up --build
 
 ## Demo Video
 
-- [Watch demo.mp4](./demo.mp4)
+<video src="./demo.mp4" controls width="100%"></video>
+
+[Download full video (demo.mp4)](./demo.mp4)
+
 
 ## Project Notes
 
